@@ -8,14 +8,14 @@ namespace Tests;
         private string _descricao;
         private double _carga;
         private PublicoAlvo _publico;
-        private double _valor;
+        private int _valor;
     public CursoTeste()
     {
         _nome = "Banco de Dados";
         _descricao = "Básico sobre banco de dados relacional";
         _carga = 80;
         _publico = PublicoAlvo.Universitário;
-        _valor = 150.00;
+        _valor = (int)150.00;
     }
     
     [Fact]
