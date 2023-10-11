@@ -1,3 +1,5 @@
+2 – O teste de instanciação abaixo apresenta um erro ao ser executado. Encontre o erro, explique por que ocorreu e
+corrija o código para que ele funcione corretamente.
 
 ![Alt text](exec2teste.png)
 
