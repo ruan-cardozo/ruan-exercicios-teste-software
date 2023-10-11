@@ -1,0 +1,15 @@
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/bin/Debug/net7.0/Dominio
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/bin/Debug/net7.0/Dominio.deps.json
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/bin/Debug/net7.0/Dominio.runtimeconfig.json
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/bin/Debug/net7.0/Dominio.dll
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/bin/Debug/net7.0/Dominio.pdb
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.csproj.AssemblyReference.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfoInputs.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfo.cs
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.dll
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/refint/Dominio.dll
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.pdb
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/Dominio.genruntimeconfig.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos-de-Testes/testProject6/Dominio/obj/Debug/net7.0/ref/Dominio.dll
